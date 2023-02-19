@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-family: Arial, sans-serif;
+  }
+/* @keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
+  body {
+    font-size: 14px;
+  }
+  .box{
+    width: 100px;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+    animation-name: example;
+    animation-duration: 4s;
+    } */
+
+    .header_section {
+    width: 100%;
+    float: left;
+    height: auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+    .navbar {
+  padding: .5rem 0px;
+  border-top: 20px solid #ffffff;
+  border-bottom: 20px solid #ffffff;
+}
+    .container {
+  max-width: 1170px;
+  margin: auto;
+  height: 1000px;
+}
+    .logo {
+  display: inline-block;
+  margin-left: 14.32%;
+  font-size: 25px;
+  line-height: inherit;
+  white-space: nowrap;  
+  color: #01996D;
+  pointer-events: none;        
+  text-decoration: none;
+    }
+    .nav-link {
+      padding-right: 15px;
+      padding-left: 15px;
+      color: #000000;
+      font-family: Lato;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 20px;
+      line-height: 24px;
+      
+      text-decoration: none;
+  }
+
+  .nitem {
+    display: block;
+    padding-left: 60px;
+    font-family: Lato;
+    color:rgb(0, 0, 0)
+
+  }
+
+  .button {
+    color: white;
+    padding: 13px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+
+    background-color: #01996D;
+    border: 1px solid #01996D;
+    border-radius: 4px;
+  }
+  .button-regular {
+    color:black;
+    padding: 15px 24px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Lato;
+    font-weight: 400;
+
+    background-color: white;
+    border: none;
+    border-radius: 4px;
+  }
+  .headliner {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+
+  .normaltext {
+
+  }
+
+  /* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    display: inline;
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 24px;
+    background-color: #ffffff;
+  } */
